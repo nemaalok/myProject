@@ -5,4 +5,5 @@ newEntryatabhishek,32,fj
 newEntryAtALok,22,jg
 entry2,alok,343
 entry1,34,sf
+neq1,22,22
 
